@@ -68,5 +68,6 @@
 <modules>  <module>Devops-prj1-service</module>
     <module>Devops-prj1-model</module>
     <module>Devops-prj1-client</module>
+    <module>Devops-prj3</module>
   </modules>
 </project>
